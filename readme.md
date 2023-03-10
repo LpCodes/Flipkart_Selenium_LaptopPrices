@@ -10,9 +10,6 @@ This script uses Selenium to scrape laptop prices and related information from t
 - ChromeDriver executable for Selenium (download from - 
 https://chromedriver.chromium.org/downloads and save in the ./driver/ directory)
 
-```bash
-pip install foobar
-```
 
 ## Usage
 
